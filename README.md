@@ -1,4 +1,4 @@
-![MasterHead]()
+![logo](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 <h1 align="center">Hi 👋, I'm Saurav Deodhe</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind" <br> "Be Aware Be Safe"</h3>
 <img align="right" alt="Code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
