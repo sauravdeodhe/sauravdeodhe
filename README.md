@@ -1,5 +1,5 @@
+![logo](github-header-image.png)
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Android](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Saurav Deodhe</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind" <br> "Be Aware Be Safe"</h3>
 <img align="right" alt="Code" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
