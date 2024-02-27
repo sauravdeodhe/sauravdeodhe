@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Deodhe</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind" <br> "Be Aware Be Safe"</h3>
 <img align="right" alt="Code" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align="center" alt="S-tag" width="100" src="https://i.pinimg.com/originals/c8/ca/70/c8ca70f3e9169546b2c67d301aaeef38.gif">
+<img align="right" alt="S-tag" width="100" src="https://i.pinimg.com/originals/c8/ca/70/c8ca70f3e9169546b2c67d301aaeef38.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravdeodhe&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdeodhe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sdsaurav007" target="blank"><img src="https://img.shields.io/twitter/follow/sdsaurav007?logo=twitter&style=for-the-badge" alt="sdsaurav007" /></a> </p>
