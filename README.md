@@ -1,8 +1,7 @@
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fik.imagekit.io%2Fdresma%2FDresma_Library%2Fsenior-software-engineer_Wy82tYQym.gif&tbnid=Icu5N6ow_BLP3M&vet=12ahUKEwj2z7CP-8qEAxWRbWwGHXwaA6kQxiAoCnoECAAQQQ..i&imgrefurl=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dsenior-software-engineer-platform-dresma-nn-l2nm59Hb&docid=PSouuztJ9pbfTM&w=1240&h=480&itg=1&q=animated%20coding%20gif%20boy&ved=2ahUKEwj2z7CP-8qEAxWRbWwGHXwaA6kQxiAoCnoECAAQQQ)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Saurav Deodhe</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind" <br> "Be Aware Be Safe"</h3>
-<img align="center" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dsenior-software-engineer-platform-dresma-nn-l2nm59Hb&psig=AOvVaw2KJ8qqmB82W-5hfnmBlx24&ust=1709104909746000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwimvsCJ_sqEAxU_bmwGHYNNALUQjRx6BAgAEBY">
-
+<img align="right" alt="Code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravdeodhe&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdeodhe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sdsaurav007" target="blank"><img src="https://img.shields.io/twitter/follow/sdsaurav007?logo=twitter&style=for-the-badge" alt="sdsaurav007" /></a> </p>
