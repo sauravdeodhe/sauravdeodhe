@@ -1,8 +1,8 @@
 ![logo](github-header-image.png)
-![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Banner](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm Saurav Deodhe</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind" <br> "Be Aware Be Safe"</h3>
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"
+<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/da0accfcc31aa6c62a8d2c7ce785fd454451e39c34fdaf0e1b948c378b59e691/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravdeodhe&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdeodhe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sdsaurav007" target="blank"><img src="https://img.shields.io/twitter/follow/sdsaurav007?logo=twitter&style=for-the-badge" alt="sdsaurav007" /></a> </p>
